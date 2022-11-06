@@ -2,15 +2,15 @@
 
   "ads":[
     {
-      "AdmobInterstitial":"",
-      "AdmobBanner":"",
-      "AdmobNative" : "",
+      "AdmobInterstitial":"ca-app-pub-3275007538096659/5815427362",
+      "AdmobBanner":"ca-app-pub-3275007538096659/2067754049",
+      "AdmobNative" : "ca-app-pub-3275007538096659/7076500151",
 
       "FaceInterstitial":"",
       "FaceBanner":"",
       "FaceNative" : "",
 
-      "UnityGame":"4831477",
+      "UnityGame":"",
       "UnityInterstitial":"Interstitial_Android",
       "UnityBanner":"Banner_Android",
 
@@ -26,7 +26,7 @@
 	  
 	  
      // admob or fan or max or unity or iron
-      "Network":"unity"
+      "Network":"admob"
 	  
  
     }
